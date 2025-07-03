@@ -1,0 +1,565 @@
+{
+    "name": "ifa",
+    "key": "ifa",
+    "title": "in the wake of wandering winds",
+    "rarity": 4,
+    "element": "anemo",
+    "vision": "anemo",
+    "weapon": "catalyst",
+    "release_date": "may 07, 2025",
+    "release_date_epoch": 1746576000,
+    "constellation": "constel\u00adlation",
+    "birthday": "birthday",
+    "affiliation": "tlalocan",
+    "region": "natlan",
+    "special_dish": "special dish",
+    "alternate_title": "tlalocan vet",
+    "description": "Ifa is a renowned Saurian veterinarian from the Flower-Feather Clan. He is friends with Ororon and often delivers vegetables to Citlali on his behalf.",
+    "ascension_stat": "Elemental Mastery",
+    "base_stats": [
+        {
+            "LVL": "1/20",
+            "BaseHP": "845.23",
+            "BaseATK": "14.96",
+            "BaseDEF": "50.76",
+            "AscensionStatType": "Elemental Mastery",
+            "AscensionStatValue": "-",
+            "AscensionPhase": 0
+        },
+        {
+            "LVL": "20/20",
+            "BaseHP": "2171.40",
+            "BaseATK": "38.43",
+            "BaseDEF": "130.40",
+            "AscensionStatType": "Elemental Mastery",
+            "AscensionStatValue": "-",
+            "AscensionPhase": 0
+        },
+        {
+            "LVL": "20/40",
+            "BaseHP": "2802.83",
+            "BaseATK": "49.60",
+            "BaseDEF": "168.32",
+            "AscensionStatType": "Elemental Mastery",
+            "AscensionStatValue": "-",
+            "AscensionPhase": 1
+        },
+        {
+            "LVL": "40/40",
+            "BaseHP": "4198.30",
+            "BaseATK": "74.30",
+            "BaseDEF": "252.12",
+            "AscensionStatType": "Elemental Mastery",
+            "AscensionStatValue": "-",
+            "AscensionPhase": 1
+        },
+        {
+            "LVL": "40/50",
+            "BaseHP": "4646.95",
+            "BaseATK": "82.24",
+            "BaseDEF": "279.06",
+            "AscensionStatType": "Elemental Mastery",
+            "AscensionStatValue": "24.0",
+            "AscensionPhase": 2
+        },
+        {
+            "LVL": "50/50",
+            "BaseHP": "5345.11",
+            "BaseATK": "94.60",
+            "BaseDEF": "320.99",
+            "AscensionStatType": "Elemental Mastery",
+            "AscensionStatValue": "24.0",
+            "AscensionPhase": 2
+        },
+        {
+            "LVL": "50/60",
+            "BaseHP": "5943.31",
+            "BaseATK": "105.18",
+            "BaseDEF": "356.91",
+            "AscensionStatType": "Elemental Mastery",
+            "AscensionStatValue": "48.0",
+            "AscensionPhase": 3
+        },
+        {
+            "LVL": "60/60",
+            "BaseHP": "6641.47",
+            "BaseATK": "117.54",
+            "BaseDEF": "398.84",
+            "AscensionStatType": "Elemental Mastery",
+            "AscensionStatValue": "48.0",
+            "AscensionPhase": 3
+        },
+        {
+            "LVL": "60/70",
+            "BaseHP": "7090.12",
+            "BaseATK": "125.48",
+            "BaseDEF": "425.78",
+            "AscensionStatType": "Elemental Mastery",
+            "AscensionStatValue": "48.0",
+            "AscensionPhase": 4
+        },
+        {
+            "LVL": "70/70",
+            "BaseHP": "7787.43",
+            "BaseATK": "137.82",
+            "BaseDEF": "467.66",
+            "AscensionStatType": "Elemental Mastery",
+            "AscensionStatValue": "48.0",
+            "AscensionPhase": 4
+        },
+        {
+            "LVL": "70/80",
+            "BaseHP": "8236.08",
+            "BaseATK": "145.76",
+            "BaseDEF": "494.60",
+            "AscensionStatType": "Elemental Mastery",
+            "AscensionStatValue": "72.0",
+            "AscensionPhase": 5
+        },
+        {
+            "LVL": "80/80",
+            "BaseHP": "8934.24",
+            "BaseATK": "158.12",
+            "BaseDEF": "536.53",
+            "AscensionStatType": "Elemental Mastery",
+            "AscensionStatValue": "72.0",
+            "AscensionPhase": 5
+        },
+        {
+            "LVL": "80/90",
+            "BaseHP": "9382.89",
+            "BaseATK": "166.06",
+            "BaseDEF": "563.47",
+            "AscensionStatType": "Elemental Mastery",
+            "AscensionStatValue": "96.0",
+            "AscensionPhase": 6
+        },
+        {
+            "LVL": "90/90",
+            "BaseHP": "10081.05",
+            "BaseATK": "178.41",
+            "BaseDEF": "605.40",
+            "AscensionStatType": "Elemental Mastery",
+            "AscensionStatValue": "96.0",
+            "AscensionPhase": 6
+        }
+    ],
+    "ascension_costs": [
+        {
+            "AscensionPhase": 0,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "20000"
+                },
+                {
+                    "name": "Vayuda Turquoise Sliver",
+                    "amount": "1"
+                },
+                {
+                    "name": "Saurian Claw Succulent",
+                    "amount": "3"
+                },
+                {
+                    "name": "Juvenile Fang",
+                    "amount": "3"
+                }
+            ]
+        },
+        {
+            "AscensionPhase": 1,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "40000"
+                },
+                {
+                    "name": "Sparkless Statue Core",
+                    "amount": "2"
+                },
+                {
+                    "name": "Vayuda Turquoise Fragment",
+                    "amount": "3"
+                },
+                {
+                    "name": "Saurian Claw Succulent",
+                    "amount": "10"
+                },
+                {
+                    "name": "Juvenile Fang",
+                    "amount": "15"
+                }
+            ]
+        },
+        {
+            "AscensionPhase": 2,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "60000"
+                },
+                {
+                    "name": "Sparkless Statue Core",
+                    "amount": "4"
+                },
+                {
+                    "name": "Vayuda Turquoise Fragment",
+                    "amount": "6"
+                },
+                {
+                    "name": "Saurian Claw Succulent",
+                    "amount": "20"
+                },
+                {
+                    "name": "Seasoned Fang",
+                    "amount": "12"
+                }
+            ]
+        },
+        {
+            "AscensionPhase": 3,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "80000"
+                },
+                {
+                    "name": "Sparkless Statue Core",
+                    "amount": "8"
+                },
+                {
+                    "name": "Vayuda Turquoise Chunk",
+                    "amount": "3"
+                },
+                {
+                    "name": "Saurian Claw Succulent",
+                    "amount": "30"
+                },
+                {
+                    "name": "Seasoned Fang",
+                    "amount": "18"
+                }
+            ]
+        },
+        {
+            "AscensionPhase": 4,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "100000"
+                },
+                {
+                    "name": "Sparkless Statue Core",
+                    "amount": "12"
+                },
+                {
+                    "name": "Vayuda Turquoise Chunk",
+                    "amount": "6"
+                },
+                {
+                    "name": "Saurian Claw Succulent",
+                    "amount": "45"
+                },
+                {
+                    "name": "Tyrant's Fang",
+                    "amount": "12"
+                }
+            ]
+        },
+        {
+            "AscensionPhase": 5,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "120000"
+                },
+                {
+                    "name": "Sparkless Statue Core",
+                    "amount": "20"
+                },
+                {
+                    "name": "Vayuda Turquoise Gemstone",
+                    "amount": "6"
+                },
+                {
+                    "name": "Saurian Claw Succulent",
+                    "amount": "60"
+                },
+                {
+                    "name": "Tyrant's Fang",
+                    "amount": "24"
+                }
+            ]
+        }
+    ],
+    "talents": [
+        {
+            "name": "Rite of Dispelling Winds",
+            "type": "Normal Attack",
+            "description": "Normal Attack\nPerforms up to 3 attacks, dealing Anemo DMG.\nCharged Attack\nConsumes a certain amount of Stamina and fires off a shot, dealing AoE Anemo DMG.\nPlunging Attack\nPlunges towards the ground from mid-air, damaging all opponents along the path. Deals AoE Anemo DMG upon impact with the ground.",
+            "attributes": [
+                {
+                    "hit": "1-Hit DMG (%)",
+                    "values": [
+                        53.61,
+                        57.63,
+                        61.65,
+                        67.01,
+                        71.03,
+                        75.05,
+                        80.41,
+                        85.77,
+                        91.13,
+                        96.49,
+                        101.85
+                    ]
+                },
+                {
+                    "hit": "2-Hit DMG (%)",
+                    "values": [
+                        47.47,
+                        51.03,
+                        54.59,
+                        59.33,
+                        62.89,
+                        66.45,
+                        71.2,
+                        75.95,
+                        80.69,
+                        85.44,
+                        90.19
+                    ]
+                },
+                {
+                    "hit": "3-Hit DMG (%)",
+                    "values": [
+                        74.76,
+                        80.37,
+                        85.97,
+                        93.45,
+                        99.05,
+                        104.66,
+                        112.14,
+                        119.61,
+                        127.09,
+                        134.57,
+                        142.04
+                    ]
+                },
+                {
+                    "hit": "Charged Attack DMG (%)",
+                    "values": [
+                        147.04,
+                        158.07,
+                        169.1,
+                        183.8,
+                        194.83,
+                        205.86,
+                        220.56,
+                        235.26,
+                        249.97,
+                        264.67,
+                        279.38
+                    ]
+                },
+                {
+                    "hit": "Plunge DMG (%)",
+                    "values": [
+                        56.83,
+                        61.45,
+                        66.08,
+                        72.69,
+                        77.31,
+                        82.6,
+                        89.87,
+                        97.14,
+                        104.41,
+                        112.34,
+                        120.27
+                    ]
+                },
+                {
+                    "hit": "Low Plunge DMG (%)",
+                    "values": [
+                        113.63,
+                        122.88,
+                        132.13,
+                        145.35,
+                        154.59,
+                        165.17,
+                        179.7,
+                        194.23,
+                        208.77,
+                        224.62,
+                        240.48
+                    ]
+                },
+                {
+                    "hit": "High Plunge DMG (%)",
+                    "values": [
+                        141.93,
+                        153.49,
+                        165.04,
+                        181.54,
+                        193.1,
+                        206.3,
+                        224.45,
+                        242.61,
+                        260.76,
+                        280.57,
+                        300.37
+                    ]
+                }
+            ],
+            "properties": []
+        },
+        {
+            "name": "Airborne Disease Prevention",
+            "type": "Elemental Skill",
+            "description": "It's time for the real bash bros to step up! Ifa calls Cacucu in as backup.\nAfter using this skill, Ifa gains 80 Nightsoul points and enters the  state. In the Nightsoul's Blessing state, Ifa will hover with Cacucu's help. When he uses Normal Attacks in this state, he will use different kinds of  depending on whether you Tap or Hold, firing Tonicshots that are capable of healing all party members.\nAdditionally, Holding the Elemental Skill Airborne Disease Prevention while Ifa is in Nightsoul's Blessing will cause him to use a Nightsoul-aligned Plunging Attack. Letting go of the skill button will interrupt this Plunging Attack to maintain his hover. If Ifa lands due to this Plunging Attack, his Nightsoul's Blessing state will end.",
+            "attributes": [
+                {
+                    "hit": "Tonicshot DMG (%)",
+                    "values": [
+                        133.36,
+                        143.36,
+                        153.36,
+                        166.7,
+                        176.7,
+                        186.7,
+                        200.04,
+                        213.38,
+                        226.71,
+                        240.05,
+                        253.38,
+                        266.72,
+                        283.39
+                    ]
+                },
+                {
+                    "hit": "Tonicshot Healing On Hit",
+                    "values": [
+                        "20.16% Elemental Mastery + 48.15",
+                        "21.67% Elemental Mastery + 52.96",
+                        "23.18% Elemental Mastery + 58.18",
+                        "25.2% Elemental Mastery + 63.8",
+                        "26.71% Elemental Mastery + 69.82",
+                        "28.22% Elemental Mastery + 76.24",
+                        "30.24% Elemental Mastery + 83.06",
+                        "32.26% Elemental Mastery + 90.28",
+                        "34.27% Elemental Mastery + 97.91",
+                        "36.29% Elemental Mastery + 105.93",
+                        "38.3% Elemental Mastery + 114.36",
+                        "40.32% Elemental Mastery + 123.19",
+                        "42.84% Elemental Mastery + 132.42"
+                    ]
+                }
+            ],
+            "properties": []
+        },
+        {
+            "name": "Compound Sedation Field",
+            "type": "Elemental Burst",
+            "description": "Fires a Therapeutic Sedative at a (temporarily aggressive) opponent. The sedative will explode on impact, creating a restraining wind current that pulls nearby objects and opponents in while dealing Nightsoul-aligned AoE Anemo DMG.\nWhen the Therapeutic Sedative hits an opponent affected by Hydro/Pyro/Cryo/Electro, it will apply a  to them.",
+            "attributes": [
+                {
+                    "hit": "Skill DMG (%)",
+                    "values": [
+                        508.48,
+                        546.62,
+                        584.75,
+                        635.6,
+                        673.74,
+                        711.87,
+                        762.72,
+                        813.57,
+                        864.42,
+                        915.26,
+                        966.11,
+                        1016.96,
+                        1080.52
+                    ]
+                },
+                {
+                    "hit": "Sedation Mark DMG (%)",
+                    "values": [
+                        108.96,
+                        117.13,
+                        125.3,
+                        136.2,
+                        144.37,
+                        152.54,
+                        163.44,
+                        174.34,
+                        185.23,
+                        196.13,
+                        207.02,
+                        217.92,
+                        231.54
+                    ]
+                }
+            ],
+            "properties": []
+        },
+        {
+            "name": "Focused Emergency Rescue",
+            "type": "Night Realm's Gift Passive",
+            "description": "After his Nightsoul points are exhausted, Ifa will switch to consuming Phlogiston to maintain his Nightsoul's Blessing.\nWhile in an area with Phlogiston Mechanics within Natlan, he can use Nightsoul Transmission: Ifa. When the active character is a certain height in the air, the following will occur when switching to Ifa: Ifa will enter the Nightsoul's Blessing state and gain 32 Nightsoul points. Nightsoul Transmission can be triggered once every 10s by your own team."
+        }
+    ],
+    "passives": [
+        {
+            "name": "Field Medic's Vision",
+            "type": "1st Ascension Passive",
+            "description": "When Ifa is in the Nightsoul's Blessing state, every 1 Nightsoul point out of the total in his entire party will grant him 1 Rescue EssentialsRescue EssentialsMax 150 points. Each Rescue Essentials point Ifa has will increase the Swirl and Electro-Charged DMG dealt by nearby party members by 1.5%. These points will be cleared when his Nightsoul's Blessing state ends. point. Rescue Essentials will increase the Swirl and Electro-Charged DMG dealt by all nearby party members."
+        },
+        {
+            "name": "Mutual Aid Agreement",
+            "type": "4th Ascension Passive",
+            "description": "When nearby party members trigger Nightsoul Bursts, Ifa's Elemental Mastery increases by 80 for 10s."
+        },
+        {
+            "name": "Tactical Warm Compress Bandaging",
+            "type": "Utility Passive",
+            "description": "While in an area with Phlogiston Mechanics within Natlan, when the current active party member or indwelt saurian has less than 40% HP, Ifa will consume 10 Phlogiston and restore 40% of their HP. This effect can trigger once every 10s, and does not take effect in Domains, Trounce Domains, or the Spiral Abyss."
+        }
+    ],
+    "constellations": [
+        {
+            "level": 1,
+            "name": "Vitiferous Elixir's Concoction",
+            "description": "When  hits an opponent, it will restore 6 Energy for Ifa. One such Energy restoration can be triggered once every 8s.",
+            "properties": []
+        },
+        {
+            "level": 2,
+            "name": "Guiding Spirit of Ballistic Prayer",
+            "description": "When Ifa is in the Nightsoul's Blessing state, every Nightsoul point the party has above a total of 60 will grant Ifa 4 additional  points.\nAdditionally, Ifa's Rescue Essentials limit is increased by 50.\nYou must first unlock the Passive Talent Field Medic's Vision.",
+            "properties": []
+        },
+        {
+            "level": 3,
+            "name": "Rebuttal in Negotiations With the Night",
+            "description": "Increases the Level of Airborne Disease Prevention by 3.\nMaximum upgrade level is 15.",
+            "properties": []
+        },
+        {
+            "level": 4,
+            "name": "Decayed Vessel's Permutation",
+            "description": "The restraining wind current created by the Elemental Burst Compound Sedation Field has its duration extended to 3s.\nAdditionally, Ifa gains 100 Elemental Mastery for 15s after using his Elemental Burst Compound Sedation Field.",
+            "properties": []
+        },
+        {
+            "level": 5,
+            "name": "Vow of Universal Coexistence",
+            "description": "Increases the Level of Compound Sedation Field by 3.\nMaximum upgrade level is 15.",
+            "properties": []
+        },
+        {
+            "level": 6,
+            "name": "Oath on a Feathered Knot",
+            "description": "When Ifa uses the Hold version of his , there is a 50% chance that he will fire an additional Tonicshot that deals 120% of Ifa's ATK as Anemo DMG. This DMG is considered Normal Attack DMG.\nAdditionally, when he is not in combat, Ifa will consume 20% less Nightsoul points and Phlogiston in his Nightsoul's Blessing state.",
+            "properties": []
+        }
+    ]
+}

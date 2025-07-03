@@ -1,0 +1,760 @@
+{
+    "name": "skirk",
+    "key": "skirk",
+    "title": "void star",
+    "rarity": 5,
+    "element": "cryo",
+    "vision": "cryo",
+    "weapon": "sword",
+    "release_date": "june 18, 2025",
+    "release_date_epoch": 1750204800,
+    "constellation": "constel\u00adlation",
+    "birthday": "birthday",
+    "affiliation": "cosmic calamity",
+    "region": "none",
+    "special_dish": "special dish",
+    "alternate_title": "sinner's pupil, fool's master",
+    "description": "A mysterious swordswoman hailing from beyond the skies, she was Tartaglia's master during his time in the Abyss and is the disciple of Surtalogi, one of the Five Sinners of Khaenri'ah.",
+    "ascension_stat": "CRIT DMG",
+    "base_stats": [
+        {
+            "LVL": "1/20",
+            "BaseHP": "966.67",
+            "BaseATK": "27.93",
+            "BaseDEF": "62.76",
+            "AscensionStatType": "CRIT DMG",
+            "AscensionStatValue": "-",
+            "AscensionPhase": 0
+        },
+        {
+            "LVL": "20/20",
+            "BaseHP": "2507.53",
+            "BaseATK": "72.45",
+            "BaseDEF": "162.80",
+            "AscensionStatType": "CRIT DMG",
+            "AscensionStatValue": "-",
+            "AscensionPhase": 0
+        },
+        {
+            "LVL": "20/40",
+            "BaseHP": "3336.36",
+            "BaseATK": "96.40",
+            "BaseDEF": "216.62",
+            "AscensionStatType": "CRIT DMG",
+            "AscensionStatValue": "-",
+            "AscensionPhase": 1
+        },
+        {
+            "LVL": "40/40",
+            "BaseHP": "4992.26",
+            "BaseATK": "144.24",
+            "BaseDEF": "324.13",
+            "AscensionStatType": "CRIT DMG",
+            "AscensionStatValue": "-",
+            "AscensionPhase": 1
+        },
+        {
+            "LVL": "40/50",
+            "BaseHP": "5581.17",
+            "BaseATK": "161.25",
+            "BaseDEF": "362.36",
+            "AscensionStatType": "CRIT DMG",
+            "AscensionStatValue": "9.6%",
+            "AscensionPhase": 2
+        },
+        {
+            "LVL": "50/50",
+            "BaseHP": "6421.20",
+            "BaseATK": "185.53",
+            "BaseDEF": "416.90",
+            "AscensionStatType": "CRIT DMG",
+            "AscensionStatValue": "9.6%",
+            "AscensionPhase": 2
+        },
+        {
+            "LVL": "50/60",
+            "BaseHP": "7206.41",
+            "BaseATK": "208.21",
+            "BaseDEF": "467.89",
+            "AscensionStatType": "CRIT DMG",
+            "AscensionStatValue": "19.2%",
+            "AscensionPhase": 3
+        },
+        {
+            "LVL": "60/60",
+            "BaseHP": "8055.14",
+            "BaseATK": "232.73",
+            "BaseDEF": "522.99",
+            "AscensionStatType": "CRIT DMG",
+            "AscensionStatValue": "19.2%",
+            "AscensionPhase": 3
+        },
+        {
+            "LVL": "60/70",
+            "BaseHP": "8644.04",
+            "BaseATK": "249.75",
+            "BaseDEF": "561.23",
+            "AscensionStatType": "CRIT DMG",
+            "AscensionStatValue": "19.2%",
+            "AscensionPhase": 4
+        },
+        {
+            "LVL": "70/70",
+            "BaseHP": "9500.51",
+            "BaseATK": "274.49",
+            "BaseDEF": "616.83",
+            "AscensionStatType": "CRIT DMG",
+            "AscensionStatValue": "19.2%",
+            "AscensionPhase": 4
+        },
+        {
+            "LVL": "70/80",
+            "BaseHP": "10089.42",
+            "BaseATK": "291.51",
+            "BaseDEF": "655.07",
+            "AscensionStatType": "CRIT DMG",
+            "AscensionStatValue": "28.8%",
+            "AscensionPhase": 5
+        },
+        {
+            "LVL": "80/80",
+            "BaseHP": "10955.55",
+            "BaseATK": "316.53",
+            "BaseDEF": "711.30",
+            "AscensionStatType": "CRIT DMG",
+            "AscensionStatValue": "28.8%",
+            "AscensionPhase": 5
+        },
+        {
+            "LVL": "80/90",
+            "BaseHP": "11544.45",
+            "BaseATK": "333.55",
+            "BaseDEF": "749.54",
+            "AscensionStatType": "CRIT DMG",
+            "AscensionStatValue": "38.4%",
+            "AscensionPhase": 6
+        },
+        {
+            "LVL": "90/90",
+            "BaseHP": "12417.35",
+            "BaseATK": "358.77",
+            "BaseDEF": "806.21",
+            "AscensionStatType": "CRIT DMG",
+            "AscensionStatValue": "38.4%",
+            "AscensionPhase": 6
+        }
+    ],
+    "ascension_costs": [
+        {
+            "AscensionPhase": 0,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "20000"
+                },
+                {
+                    "name": "Shivada Jade Sliver",
+                    "amount": "1"
+                },
+                {
+                    "name": "Skysplit Gembloom",
+                    "amount": "3"
+                },
+                {
+                    "name": "Meshing Gear",
+                    "amount": "3"
+                }
+            ]
+        },
+        {
+            "AscensionPhase": 1,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "40000"
+                },
+                {
+                    "name": "Ensnaring Gaze",
+                    "amount": "2"
+                },
+                {
+                    "name": "Shivada Jade Fragment",
+                    "amount": "3"
+                },
+                {
+                    "name": "Skysplit Gembloom",
+                    "amount": "10"
+                },
+                {
+                    "name": "Meshing Gear",
+                    "amount": "15"
+                }
+            ]
+        },
+        {
+            "AscensionPhase": 2,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "60000"
+                },
+                {
+                    "name": "Ensnaring Gaze",
+                    "amount": "4"
+                },
+                {
+                    "name": "Shivada Jade Fragment",
+                    "amount": "6"
+                },
+                {
+                    "name": "Skysplit Gembloom",
+                    "amount": "20"
+                },
+                {
+                    "name": "Mechanical Spur Gear",
+                    "amount": "12"
+                }
+            ]
+        },
+        {
+            "AscensionPhase": 3,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "80000"
+                },
+                {
+                    "name": "Ensnaring Gaze",
+                    "amount": "8"
+                },
+                {
+                    "name": "Shivada Jade Chunk",
+                    "amount": "3"
+                },
+                {
+                    "name": "Skysplit Gembloom",
+                    "amount": "30"
+                },
+                {
+                    "name": "Mechanical Spur Gear",
+                    "amount": "18"
+                }
+            ]
+        },
+        {
+            "AscensionPhase": 4,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "100000"
+                },
+                {
+                    "name": "Ensnaring Gaze",
+                    "amount": "12"
+                },
+                {
+                    "name": "Shivada Jade Chunk",
+                    "amount": "6"
+                },
+                {
+                    "name": "Skysplit Gembloom",
+                    "amount": "45"
+                },
+                {
+                    "name": "Artificed Dynamic Gear",
+                    "amount": "12"
+                }
+            ]
+        },
+        {
+            "AscensionPhase": 5,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "120000"
+                },
+                {
+                    "name": "Ensnaring Gaze",
+                    "amount": "20"
+                },
+                {
+                    "name": "Shivada Jade Gemstone",
+                    "amount": "6"
+                },
+                {
+                    "name": "Skysplit Gembloom",
+                    "amount": "60"
+                },
+                {
+                    "name": "Artificed Dynamic Gear",
+                    "amount": "24"
+                }
+            ]
+        }
+    ],
+    "talents": [
+        {
+            "name": "Havoc: Sunder",
+            "type": "Normal Attack",
+            "description": "Normal Attack\nPerforms up to 5 consecutive attacks.\nCharged Attack\nConsumes a certain amount of Stamina to hurl a spinning crystal spear, dealing DMG to opponents ahead.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "attributes": [
+                {
+                    "hit": "1-Hit DMG (%)",
+                    "values": [
+                        54.52,
+                        58.96,
+                        63.4,
+                        69.74,
+                        74.18,
+                        79.25,
+                        86.22,
+                        93.2,
+                        100.17,
+                        107.78,
+                        115.39
+                    ]
+                },
+                {
+                    "hit": "2-Hit DMG (%)",
+                    "values": [
+                        49.79,
+                        53.85,
+                        57.9,
+                        63.69,
+                        67.74,
+                        72.38,
+                        78.74,
+                        85.11,
+                        91.48,
+                        98.43,
+                        105.38
+                    ]
+                },
+                {
+                    "hit": "3-Hit DMG (%)",
+                    "values": [
+                        "32.42+32.42",
+                        "35.06+35.06",
+                        "37.7+37.7",
+                        "41.47+41.47",
+                        "44.11+44.11",
+                        "47.13+47.13",
+                        "51.27+51.27",
+                        "55.42+55.42",
+                        "59.57+59.57",
+                        "64.09+64.09",
+                        "68.61+68.61"
+                    ]
+                },
+                {
+                    "hit": "4-Hit DMG (%)",
+                    "values": [
+                        60.8,
+                        65.75,
+                        70.7,
+                        77.77,
+                        82.72,
+                        88.38,
+                        96.15,
+                        103.93,
+                        111.71,
+                        120.19,
+                        128.67
+                    ]
+                },
+                {
+                    "hit": "5-Hit DMG (%)",
+                    "values": [
+                        82.9,
+                        89.65,
+                        96.4,
+                        106.04,
+                        112.79,
+                        120.5,
+                        131.1,
+                        141.71,
+                        152.31,
+                        163.88,
+                        175.45
+                    ]
+                },
+                {
+                    "hit": "Charged Attack DMG (%)",
+                    "values": [
+                        "66.82 \u00d7 2",
+                        "72.26 \u00d7 2",
+                        "77.7 \u00d7 2",
+                        "85.47 \u00d7 2",
+                        "90.91 \u00d7 2",
+                        "97.13 \u00d7 2",
+                        "105.67 \u00d7 2",
+                        "114.22 \u00d7 2",
+                        "122.77 \u00d7 2",
+                        "132.09 \u00d7 2",
+                        "141.41 \u00d7 2"
+                    ]
+                },
+                {
+                    "hit": "Plunge DMG (%)",
+                    "values": [
+                        63.93,
+                        69.14,
+                        74.34,
+                        81.77,
+                        86.98,
+                        92.92,
+                        101.1,
+                        109.28,
+                        117.46,
+                        126.38,
+                        135.3
+                    ]
+                },
+                {
+                    "hit": "Low Plunge DMG (%)",
+                    "values": [
+                        127.84,
+                        138.24,
+                        148.65,
+                        163.51,
+                        173.92,
+                        185.81,
+                        202.16,
+                        218.51,
+                        234.86,
+                        252.7,
+                        270.54
+                    ]
+                },
+                {
+                    "hit": "High Plunge DMG (%)",
+                    "values": [
+                        159.68,
+                        172.67,
+                        185.67,
+                        204.24,
+                        217.23,
+                        232.09,
+                        252.51,
+                        272.93,
+                        293.36,
+                        315.64,
+                        337.92
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Havoc: Warp",
+            "type": "Elemental Skill",
+            "description": "Imitates the combat style of \"The Foul.\" Produces different effects depending on whether you Tap or Hold.\n**Tap**\nSkirk gains 45  and switches to  mode.\n**Hold**\nSkirk gains 45 Serpent's Subtlety and will continuously move at high speed. Her interruption resistance is increased in this state.\nDuring this time, Skirk can control her movement direction and move atop water. She can also use this Skill again to end rapid movement prematurely.",
+            "attributes": [
+                {
+                    "hit": "1-Hit DMG (%)",
+                    "values": [
+                        132.82,
+                        143.64,
+                        154.45,
+                        169.89,
+                        180.7,
+                        193.06,
+                        210.05,
+                        227.04,
+                        244.03,
+                        262.56,
+                        281.09,
+                        299.63,
+                        318.16,
+                        336.69
+                    ]
+                },
+                {
+                    "hit": "2-Hit DMG (%)",
+                    "values": [
+                        119.8,
+                        129.55,
+                        139.3,
+                        153.23,
+                        162.98,
+                        174.13,
+                        189.45,
+                        204.77,
+                        220.1,
+                        236.81,
+                        253.53,
+                        270.25,
+                        286.96,
+                        303.68
+                    ]
+                },
+                {
+                    "hit": "3-Hit DMG (%)",
+                    "values": [
+                        "75.72 + 75.72",
+                        "81.89 + 81.89",
+                        "88.05 + 88.05",
+                        "96.86 + 96.86",
+                        "103.02 + 103.02",
+                        "110.06 + 110.06",
+                        "119.75 + 119.75",
+                        "129.43 + 129.43",
+                        "139.12 + 139.12",
+                        "149.69 + 149.69",
+                        "160.25 + 160.25",
+                        "170.82 + 170.82",
+                        "181.38 + 181.38",
+                        "191.95 + 191.95"
+                    ]
+                },
+                {
+                    "hit": "4-Hit DMG (%)",
+                    "values": [
+                        "80.54 + 80.54",
+                        "87.09 + 87.09",
+                        "93.65 + 93.65",
+                        "103.01 + 103.01",
+                        "109.57 + 109.57",
+                        "117.06 + 117.06",
+                        "127.36 + 127.36",
+                        "137.67 + 137.67",
+                        "147.97 + 147.97",
+                        "159.2 + 159.2",
+                        "170.44 + 170.44",
+                        "181.68 + 181.68",
+                        "192.92 + 192.92",
+                        "204.16 + 204.16"
+                    ]
+                },
+                {
+                    "hit": "5-Hit DMG (%)",
+                    "values": [
+                        196.62,
+                        212.63,
+                        228.63,
+                        251.5,
+                        267.5,
+                        285.79,
+                        310.94,
+                        336.09,
+                        361.24,
+                        388.68,
+                        416.11,
+                        443.55,
+                        470.98,
+                        498.42
+                    ]
+                },
+                {
+                    "hit": "Charged Attack DMG (%)",
+                    "values": [
+                        "44.55 \u00d7 3",
+                        "48.17 \u00d7 3",
+                        "51.8 \u00d7 3",
+                        "56.98 \u00d7 3",
+                        "60.61 \u00d7 3",
+                        "64.75 \u00d7 3",
+                        "70.45 \u00d7 3",
+                        "76.15 \u00d7 3",
+                        "81.84 \u00d7 3",
+                        "88.06 \u00d7 3",
+                        "94.28 \u00d7 3",
+                        "100.49 \u00d7 3",
+                        "106.71 \u00d7 3",
+                        "112.92 \u00d7 3"
+                    ]
+                },
+                {
+                    "hit": "Plunge DMG (%)",
+                    "values": [
+                        63.93,
+                        69.14,
+                        74.34,
+                        81.77,
+                        86.98,
+                        92.92,
+                        101.1,
+                        109.28,
+                        117.46,
+                        126.38,
+                        135.3,
+                        144.22,
+                        153.14,
+                        162.06
+                    ]
+                },
+                {
+                    "hit": "Low Plunge DMG (%)",
+                    "values": [
+                        127.84,
+                        138.24,
+                        148.65,
+                        163.51,
+                        173.92,
+                        185.81,
+                        202.16,
+                        218.51,
+                        234.86,
+                        252.7,
+                        270.54,
+                        288.38,
+                        306.22,
+                        324.05
+                    ]
+                },
+                {
+                    "hit": "High Plunge DMG (%)",
+                    "values": [
+                        159.68,
+                        172.67,
+                        185.67,
+                        204.24,
+                        217.23,
+                        232.09,
+                        252.51,
+                        272.93,
+                        293.36,
+                        315.64,
+                        337.92,
+                        360.2,
+                        382.48,
+                        404.76
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Havoc: Ruin",
+            "type": "Elemental Burst",
+            "description": "Skirk's Elemental Burst is not reliant on Elemental Energy but instead on .\nWhen Skirk has at least 50 Serpent's Subtlety, she can expend all her Serpent's Subtlety to unleash her Elemental Burst, ripping the space before her apart and using rapid consecutive slashes that deal . At the same time, the DMG dealt by an instance of this Elemental Burst will be increased by every point of Serpent's Subtlety over 50 when it is unleashed. Up to 12 points can be counted for this purpose.\nWhen Skirk is in  mode, Havoc: Ruin will be replaced by Havoc: Extinction.\n**Havoc: Extinction**\nA special Elemental Burst that can be used even without consuming Serpent's Subtlety.\nAfter using it, Skirk will gain the \"All Shall Wither\" effect, which will last until Seven-Phase Flash ends. After unlocking the Passive Talent , she can also absorb nearby Void Rifts.\nWhile \"All Shall Wither\" is active, every 0.1s, after Skirk's Normal Attack hits an opponent, that Normal Attack will deal increased DMG. If she absorbed any Void Rifts while using Havoc: Extinction, this Normal Attack's DMG will be further increased based on the number of Rifts absorbed.\nThis effect will be canceled when it has triggered 10 times.",
+            "attributes": [
+                {
+                    "hit": "Slash DMG (%)",
+                    "values": [
+                        "122.76 \u00d75",
+                        "131.97 \u00d75",
+                        "141.17 \u00d75",
+                        "153.45 \u00d75",
+                        "162.66 \u00d75",
+                        "171.86 \u00d75",
+                        "184.14 \u00d75",
+                        "196.42 \u00d75",
+                        "208.69 \u00d75",
+                        "220.97 \u00d75",
+                        "233.24 \u00d75",
+                        "245.52 \u00d75",
+                        "260.87 \u00d75"
+                    ]
+                },
+                {
+                    "hit": "Final Slash DMG (%)",
+                    "values": [
+                        204.6,
+                        219.95,
+                        235.29,
+                        255.75,
+                        271.09,
+                        286.44,
+                        306.9,
+                        327.36,
+                        347.82,
+                        368.28,
+                        388.74,
+                        409.2,
+                        434.77
+                    ]
+                },
+                {
+                    "hit": "Serpent's Subtlety Bonus",
+                    "values": [
+                        "19.32% ATK Per Point",
+                        "20.77% ATK Per Point",
+                        "22.22% ATK Per Point",
+                        "24.15% ATK Per Point",
+                        "25.6% ATK Per Point",
+                        "27.05% ATK Per Point",
+                        "28.98% ATK Per Point",
+                        "30.92% ATK Per Point",
+                        "32.85% ATK Per Point",
+                        "34.78% ATK Per Point",
+                        "36.71% ATK Per Point",
+                        "38.65% ATK Per Point",
+                        "41.06% ATK Per Point"
+                    ]
+                },
+                {
+                    "hit": "0/1/2/3 Void Rift Absorption DMG Bonus (%)",
+                    "values": [
+                        "3.5 / 6.6 / 8.8 / 11",
+                        "4 / 7.2 / 9.6 / 12",
+                        "4.5 / 7.8 / 10.4 / 13",
+                        "5 / 8.4 / 11.2 / 14",
+                        "5.5 / 9 / 12 / 15",
+                        "6 / 9.6 / 12.8 / 16",
+                        "6.5 / 10.2 / 13.6 / 17",
+                        "7 / 10.8 / 14.4 / 18",
+                        "7.5 / 11.4 / 15.2 / 19",
+                        "8 / 12 / 16 / 20",
+                        "8.5 / 12.6 / 16.8 / 21",
+                        "9 / 13.2 / 17.6 / 22",
+                        "9.5 / 13.8 / 18.4 / 23"
+                    ]
+                }
+            ]
+        }
+    ],
+    "passives": [
+        {
+            "name": "Reason Beyond Reason",
+            "type": "1st Ascension Passive",
+            "description": "When nearby party members trigger Frozen, Superconduct, Cryo Swirl, or Cryo Crystallize reactions against opponents, a Void Rift will be created near this opponent. This effect can be triggered once every 2.5s. 3 Void Rifts created by Skirk herself can exist on the field at once.\nSkirk can use the following methods to absorb nearby Void Rifts:\n-  When she hits an opponent with a Charged Attack in her Seven-Phase FlashSeven-Phase FlashSkirk will switch to this mode for a fixed time when using the Elemental Skill Havoc: Warp. This mode has the following properties: Continuously consumes Serpent's Subtlety. Increases Normal and Charged Attack AoE and Skirk's interruption resistance. Normal, Charged, and Plunging Attacks are converted to Cryo DMG that cannot be overridden by other Elemental infusions. Her Elemental Burst, Havoc: Ruin is converted to the special Elemental Burst Havoc: Extinction. Skirk can move on water when she Sprints. Skirk will exit this mode when Serpent's Subtlety is fully depleted or its duration ends. Then, the Elemental Skill will go on cooldown. mode.\n-  Continuously consumes Serpent's Subtlety.\n-  Increases Normal and Charged Attack AoE and Skirk's interruption resistance.\n-  Normal, Charged, and Plunging Attacks are converted to Cryo DMG that cannot be overridden by other Elemental infusions.\n-  Her Elemental Burst, Havoc: Ruin is converted to the special Elemental Burst Havoc: Extinction.\n-  Skirk can move on water when she Sprints.\n-  Skirk will exit this mode when Serpent's Subtlety is fully depleted or its duration ends. Then, the Elemental Skill will go on cooldown.\n-  When she uses the special Elemental Burst Havoc: Extinction while in Seven-Phase Flash mode.\n-  When she Holds her Elemental Skill Havoc: Warp to engage in rapid movement.\nEach Rift absorbed will grant her 8  points."
+        },
+        {
+            "name": "Return to Oblivion",
+            "type": "4th Ascension Passive",
+            "description": "When nearby  party members'  attacks hit opponents, or when nearby  party members apart from Skirk hit opponents with  attacks, Skirk will gain the \"Death's Crossing\" effect for 20s. Max 3 stacks, each stack's duration is counted independently.\nEach character can grant Skirk at most 1 \"Death's Crossing\" stack by this means.\nEach \"Death's Crossing\" stack increases the Normal Attack DMG dealt by Skirk in  mode to 110%/120%/170% of its original DMG and the DMG dealt when using her Elemental Burst Havoc: Ruin to 105%/115%/160% of its original DMG."
+        },
+        {
+            "name": "Mutual Weapons Mentorship",
+            "type": "Utility Passive",
+            "description": "When all party members are either Hydro or Cryo, and if there is at least 1 Hydro and 1 Cryo character, your own party members' Elemental Skill Level is increased by 1."
+        }
+    ],
+    "constellations": [
+        {
+            "level": 1,
+            "name": "Far to Fall",
+            "description": "Enhances the effects of the Passive Talent : Every Void Rift absorbed will summon a crystal blade to attack nearby opponents, dealing 500% of Skirk's ATK as . This DMG is considered Charged Attack DMG.\nYou must first unlock the Passive Talent Reason Beyond Reason.",
+            "properties": []
+        },
+        {
+            "level": 2,
+            "name": "Into the Abyss",
+            "description": "After unleashing her Elemental Skill Havoc: Warp, Skirk will gain 10 additional  points.\nWhen using her Elemental Burst Havoc: Ruin, the DMG of this Elemental Burst instance will be increased by taking up to 10 more Serpent's Subtlety points into account.\nAdditionally, within 12.5s after Skirk unleashes the special Elemental Burst Havoc: Extinction while in her  mode, her ATK is increased by 70%. This effect will be canceled when she leaves the Seven-Phase Flash mode.",
+            "properties": []
+        },
+        {
+            "level": 3,
+            "name": "Serendipitous Sin",
+            "description": "Increases the Level of Havoc: Ruin by 3.\nMaximum upgrade level is 15.",
+            "properties": []
+        },
+        {
+            "level": 4,
+            "name": "Fractured Flow",
+            "description": "Enhances the effects of the Passive Talent : Each Death's Crossing stack also increases Skirk's ATK by 10%/20%/40%.\nYou must first unlock the Passive Talent Return to Oblivion.",
+            "properties": []
+        },
+        {
+            "level": 5,
+            "name": "End of Wishes",
+            "description": "Increases the Level of Havoc: Warp by 3.\nMaximum upgrade level is 15.",
+            "properties": []
+        },
+        {
+            "level": 6,
+            "name": "To the Source",
+            "description": "Each Void Rift Skirk absorbs via the effects of the Passive Talent  will grant her 1 Havoc: Sever stack. She can consume such stacks to initiate coordinated attacks and decrease the DMG she takes while in  mode. These stacks last for 15s, and each stack's duration is counted independently (max 3 stacks).\nYou must first unlock the Passive Talent \"Reason Beyond Reason.\"\n**Havoc: Sever**\n-  When Skirk uses the Elemental Burst Havoc: Ruin, she will consume all Havoc: Sever stacks to initiate a coordinated attack in which each Havoc: Sever stack will deal 750% of Skirk's ATK as Cryo DMG. This DMG is considered Elemental Burst DMG.\n-  When she uses Normal Attacks while in Seven-Phase Flash mode, 1 Havoc: Sever stack will be consumed when her third or fifth sequenced attacks hit an opponent to launch 3 coordinated attacks. Each coordinated attack deals 180% of Skirk's ATK as Cryo DMG. This damage is considered Normal Attack DMG.\n-  When Skirk takes DMG while in Seven-Phase Flash mode, 1 Havoc: Sever stack will be consumed to decrease this DMG instance by 80% and attack nearby opponents 3 times, with each attack dealing 180% of Skirk's ATK as Cryo DMG. This DMG is considered Charged Attack DMG.",
+            "properties": []
+        }
+    ]
+}

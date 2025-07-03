@@ -1,0 +1,578 @@
+{
+    "name": "escoffier",
+    "key": "escoffier",
+    "title": "tasteful excellence",
+    "rarity": 5,
+    "element": "cryo",
+    "vision": "cryo",
+    "weapon": "polearm",
+    "release_date": "may 07, 2025",
+    "release_date_epoch": 1746576000,
+    "constellation": "constel\u00adlation",
+    "birthday": "birthday",
+    "affiliation": "fontaine (on profile)hotel debord (former head chef)",
+    "region": "fontaine",
+    "special_dish": "special dish",
+    "alternate_title": "lead goose of precision gastronomy",
+    "description": "Previously working at Hotel Debord, Escoffier is a renowned Fontainian chef that maintains extreme quality on her dishes. She is also feared for her ferocity due to these standards, scolding those who improperly waste food.",
+    "ascension_stat": "CRIT Rate",
+    "base_stats": [
+        {
+            "LVL": "1/20",
+            "BaseHP": "1039.12",
+            "BaseATK": "27.00",
+            "BaseDEF": "56.96",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "-",
+            "AscensionPhase": 0
+        },
+        {
+            "LVL": "20/20",
+            "BaseHP": "2695.47",
+            "BaseATK": "70.04",
+            "BaseDEF": "147.75",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "-",
+            "AscensionPhase": 0
+        },
+        {
+            "LVL": "20/40",
+            "BaseHP": "3586.42",
+            "BaseATK": "93.18",
+            "BaseDEF": "196.59",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "-",
+            "AscensionPhase": 1
+        },
+        {
+            "LVL": "40/40",
+            "BaseHP": "5366.44",
+            "BaseATK": "139.43",
+            "BaseDEF": "294.16",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "-",
+            "AscensionPhase": 1
+        },
+        {
+            "LVL": "40/50",
+            "BaseHP": "5999.48",
+            "BaseATK": "155.88",
+            "BaseDEF": "328.86",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "4.8%",
+            "AscensionPhase": 2
+        },
+        {
+            "LVL": "50/50",
+            "BaseHP": "6902.47",
+            "BaseATK": "179.34",
+            "BaseDEF": "378.35",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "4.8%",
+            "AscensionPhase": 2
+        },
+        {
+            "LVL": "50/60",
+            "BaseHP": "7746.53",
+            "BaseATK": "201.27",
+            "BaseDEF": "424.62",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "9.6%",
+            "AscensionPhase": 3
+        },
+        {
+            "LVL": "60/60",
+            "BaseHP": "8658.88",
+            "BaseATK": "224.98",
+            "BaseDEF": "474.63",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "9.6%",
+            "AscensionPhase": 3
+        },
+        {
+            "LVL": "60/70",
+            "BaseHP": "9291.92",
+            "BaseATK": "241.42",
+            "BaseDEF": "509.33",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "9.6%",
+            "AscensionPhase": 4
+        },
+        {
+            "LVL": "70/70",
+            "BaseHP": "10212.58",
+            "BaseATK": "265.34",
+            "BaseDEF": "559.80",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "9.6%",
+            "AscensionPhase": 4
+        },
+        {
+            "LVL": "70/80",
+            "BaseHP": "10845.62",
+            "BaseATK": "281.79",
+            "BaseDEF": "594.50",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "14.4%",
+            "AscensionPhase": 5
+        },
+        {
+            "LVL": "80/80",
+            "BaseHP": "11776.67",
+            "BaseATK": "305.98",
+            "BaseDEF": "645.53",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "14.4%",
+            "AscensionPhase": 5
+        },
+        {
+            "LVL": "80/90",
+            "BaseHP": "12409.72",
+            "BaseATK": "322.43",
+            "BaseDEF": "680.23",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "19.2%",
+            "AscensionPhase": 6
+        },
+        {
+            "LVL": "90/90",
+            "BaseHP": "13348.04",
+            "BaseATK": "346.81",
+            "BaseDEF": "731.66",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "19.2%",
+            "AscensionPhase": 6
+        }
+    ],
+    "ascension_costs": [
+        {
+            "AscensionPhase": 0,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "20000"
+                },
+                {
+                    "name": "Shivada Jade Sliver",
+                    "amount": "1"
+                },
+                {
+                    "name": "Beryl Conch",
+                    "amount": "3"
+                },
+                {
+                    "name": "Meshing Gear",
+                    "amount": "3"
+                }
+            ]
+        },
+        {
+            "AscensionPhase": 1,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "40000"
+                },
+                {
+                    "name": "Secret Source Airflow Accumulator",
+                    "amount": "2"
+                },
+                {
+                    "name": "Shivada Jade Fragment",
+                    "amount": "3"
+                },
+                {
+                    "name": "Beryl Conch",
+                    "amount": "10"
+                },
+                {
+                    "name": "Meshing Gear",
+                    "amount": "15"
+                }
+            ]
+        },
+        {
+            "AscensionPhase": 2,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "60000"
+                },
+                {
+                    "name": "Secret Source Airflow Accumulator",
+                    "amount": "4"
+                },
+                {
+                    "name": "Shivada Jade Fragment",
+                    "amount": "6"
+                },
+                {
+                    "name": "Beryl Conch",
+                    "amount": "20"
+                },
+                {
+                    "name": "Mechanical Spur Gear",
+                    "amount": "12"
+                }
+            ]
+        },
+        {
+            "AscensionPhase": 3,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "80000"
+                },
+                {
+                    "name": "Secret Source Airflow Accumulator",
+                    "amount": "8"
+                },
+                {
+                    "name": "Shivada Jade Chunk",
+                    "amount": "3"
+                },
+                {
+                    "name": "Beryl Conch",
+                    "amount": "30"
+                },
+                {
+                    "name": "Mechanical Spur Gear",
+                    "amount": "18"
+                }
+            ]
+        },
+        {
+            "AscensionPhase": 4,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "100000"
+                },
+                {
+                    "name": "Secret Source Airflow Accumulator",
+                    "amount": "12"
+                },
+                {
+                    "name": "Shivada Jade Chunk",
+                    "amount": "6"
+                },
+                {
+                    "name": "Beryl Conch",
+                    "amount": "45"
+                },
+                {
+                    "name": "Artificed Dynamic Gear",
+                    "amount": "12"
+                }
+            ]
+        },
+        {
+            "AscensionPhase": 5,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "120000"
+                },
+                {
+                    "name": "Secret Source Airflow Accumulator",
+                    "amount": "20"
+                },
+                {
+                    "name": "Shivada Jade Gemstone",
+                    "amount": "6"
+                },
+                {
+                    "name": "Beryl Conch",
+                    "amount": "60"
+                },
+                {
+                    "name": "Artificed Dynamic Gear",
+                    "amount": "24"
+                }
+            ]
+        }
+    ],
+    "talents": [
+        {
+            "name": "Kitchen Skills",
+            "type": "Normal Attack",
+            "description": "Normal Attack\nPerforms up to 3 consecutive spear strikes.\nCharged Attack\nConsumes a certain amount of Stamina to perform an upward thrust.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "attributes": [
+                {
+                    "hit": "1-Hit DMG (%)",
+                    "values": [
+                        51.55,
+                        55.75,
+                        59.94,
+                        65.94,
+                        70.13,
+                        74.93,
+                        81.52,
+                        88.12,
+                        94.71,
+                        101.9,
+                        109.1
+                    ]
+                },
+                {
+                    "hit": "2-Hit DMG (%)",
+                    "values": [
+                        47.59,
+                        51.47,
+                        55.34,
+                        60.88,
+                        64.75,
+                        69.18,
+                        75.26,
+                        81.35,
+                        87.44,
+                        94.08,
+                        100.72
+                    ]
+                },
+                {
+                    "hit": "3-Hit DMG (%)",
+                    "values": [
+                        "33+40.33",
+                        "35.69+43.62",
+                        "38.37+46.9",
+                        "42.21+51.59",
+                        "44.89+54.87",
+                        "47.96+58.62",
+                        "52.19+63.78",
+                        "56.41+68.94",
+                        "60.63+74.1",
+                        "65.23+79.73",
+                        "69.84+85.36"
+                    ]
+                },
+                {
+                    "hit": "Charged Attack DMG (%)",
+                    "values": [
+                        115.41,
+                        124.81,
+                        134.2,
+                        147.62,
+                        157.01,
+                        167.75,
+                        182.51,
+                        197.27,
+                        212.04,
+                        228.14,
+                        244.24
+                    ]
+                },
+                {
+                    "hit": "Plunge DMG (%)",
+                    "values": [
+                        63.93,
+                        69.14,
+                        74.34,
+                        81.77,
+                        86.98,
+                        92.92,
+                        101.1,
+                        109.28,
+                        117.46,
+                        126.38,
+                        135.3
+                    ]
+                },
+                {
+                    "hit": "Low Plunge DMG (%)",
+                    "values": [
+                        127.84,
+                        138.24,
+                        148.65,
+                        163.51,
+                        173.92,
+                        185.81,
+                        202.16,
+                        218.51,
+                        234.86,
+                        252.7,
+                        270.54
+                    ]
+                },
+                {
+                    "hit": "High Plunge DMG (%)",
+                    "values": [
+                        159.68,
+                        172.67,
+                        185.67,
+                        204.24,
+                        217.23,
+                        232.09,
+                        252.51,
+                        272.93,
+                        293.36,
+                        315.64,
+                        337.92
+                    ]
+                }
+            ],
+            "properties": []
+        },
+        {
+            "name": "Low-Temperature Cooking",
+            "type": "Elemental Skill",
+            "description": "Behold the true meaning of \"cooking\"! Escoffier will demonstrate different cooking techniques when you Tap or Hold this skill, but rest assured, each of them is Fontaine's pride and joy.\n**Tap**\nActivates her All-Spectrum Multi-Use Cooking Mek in its Cold Storage mode and deals  to nearby opponents.\n**Cooking Mek: Cold Storage Mode**\nFollows the current active character and fires Frosty Parfaits at nearby opponents at intervals, dealing .\n**Arkhe: Ousia**\nAt intervals, Escoffier will summon a Surging Blade when activating her Cooking Mek in Cold Storage mode, dealing Ousia-aligned .\n**Hold**\nActivates her All-Spectrum Multi-Use Cooking Mek's .",
+            "attributes": [
+                {
+                    "hit": "Skill DMG (%)",
+                    "values": [
+                        50.4,
+                        54.18,
+                        57.96,
+                        63.0,
+                        66.78,
+                        70.56,
+                        75.6,
+                        80.64,
+                        85.68,
+                        90.72,
+                        95.76,
+                        100.8,
+                        107.1
+                    ]
+                },
+                {
+                    "hit": "Frosty Parfait DMG (%)",
+                    "values": [
+                        120.0,
+                        129.0,
+                        138.0,
+                        150.0,
+                        159.0,
+                        168.0,
+                        180.0,
+                        192.0,
+                        204.0,
+                        216.0,
+                        228.0,
+                        240.0,
+                        255.0
+                    ]
+                },
+                {
+                    "hit": "Surging Blade DMG (%)",
+                    "values": [
+                        33.6,
+                        36.12,
+                        38.64,
+                        42.0,
+                        44.52,
+                        47.04,
+                        50.4,
+                        53.76,
+                        57.12,
+                        60.48,
+                        63.84,
+                        67.2,
+                        71.4
+                    ]
+                }
+            ],
+            "properties": []
+        },
+        {
+            "name": "Scoring Cuts",
+            "type": "Elemental Burst",
+            "description": "Displaying her exceptional knife skills, Escoffier deals AoE Cryo DMG and restores HP to all nearby party members based on her ATK",
+            "attributes": [
+                {
+                    "hit": "Skill DMG (%)",
+                    "values": [
+                        592.8,
+                        637.26,
+                        681.72,
+                        741.0,
+                        785.46,
+                        829.92,
+                        889.2,
+                        948.48,
+                        1007.76,
+                        1067.04,
+                        1126.32,
+                        1185.6,
+                        1259.7
+                    ]
+                },
+                {
+                    "hit": "Healing",
+                    "values": [
+                        "172.03% ATK + 1079",
+                        "184.93% ATK + 1186",
+                        "197.84% ATK + 1303",
+                        "215.04% ATK + 1429",
+                        "227.94% ATK + 1564",
+                        "240.84% ATK + 1708",
+                        "258.05% ATK + 1861",
+                        "275.25% ATK + 2022",
+                        "292.45% ATK + 2193",
+                        "309.66% ATK + 2373",
+                        "326.86% ATK + 2562",
+                        "344.06% ATK + 2759",
+                        "365.57% ATK + 2966"
+                    ]
+                }
+            ],
+            "properties": []
+        }
+    ],
+    "passives": [
+        {
+            "name": "Better to Salivate Than Medicate",
+            "type": "1st Ascension Passive",
+            "description": "After using the Elemental Burst Scoring Cuts, Escoffier will obtain the Rehab Diet effect for 9s: Restores HP for nearby active characters every 1s based on 138.24% of Escoffier's ATK."
+        },
+        {
+            "name": "Inspiration-Immersed Seasoning",
+            "type": "4th Ascension Passive",
+            "description": "When there are 1/2/3/4 Hydro or Cryo characters in the party, Escoffier will decrease the Hydro RES and Cryo RES of any opponents hit by her Elemental Skill, Low-Temperature Cooking, or her Elemental Burst, Scoring Cuts, by 5%/10%/15%/55% for 12s."
+        },
+        {
+            "name": "Constant Off-the-Cuff Cookery",
+            "type": "Utility Passive",
+            "description": "When using the Hold form of her Elemental Skill Low-Temperature Cooking, Escoffier will activate her All-Spectrum Multi-Use Cooking Mek in its Off-the-Cuff Cookery mode.\n**Cooking Mek: Off-the-Cuff Cookery Mode**\n-  Places the Cooking Mek on the field. The Cooking Mek can absorb elemental attacks. When the absorbed elemental energy hits a certain limit, Escoffier can convert the ingredients placed within it into wonderful food.\n-  Escoffier needs time to purchase new ingredients, so she can only make a certain number of dishes like this each week. The number of dishes Escoffier can make resets every Monday at 4:00 AM."
+        }
+    ],
+    "constellations": [
+        {
+            "level": 1,
+            "name": "Pre-Dinner Dance for Your Taste Buds",
+            "description": "When 4 party members are  or , all nearby party members will have their  CRIT DMG increased by 60% for 15s after Escoffier uses her Elemental Skill Low-Temperature Cooking or Elemental Burst Scoring Cuts.\nYou must first unlock the Passive Talent \"Inspiration-Immersed Seasoning.\"",
+            "properties": []
+        },
+        {
+            "level": 2,
+            "name": "Fresh, Fragrant Stew Is an Art",
+            "description": "When Escoffier activates her Cooking Mek in its , she will gain the \"Freshly-Prepped Delicacy\" effect for 15s. During this time, Escoffier will gain 5 Cold Dish stacks. When nearby active characters apart from Escoffier deal  with a Normal, Charged, or Plunging Attack, or an Elemental Skill or Elemental Burst, they will expend 1 Cold Dish stack to increase their DMG dealt by 240% of Escoffier's ATK.\nIf you hit multiple opponents with a single instance of , Cold Dish stacks will be consumed based on the number of opponents hit.",
+            "properties": []
+        },
+        {
+            "level": 3,
+            "name": "The Bakery Magic of Caramel Browning",
+            "description": "Increases the Level of Low-Temperature Cooking by 3.\nMaximum upgrade level is 15.",
+            "properties": []
+        },
+        {
+            "level": 4,
+            "name": "Secret Rosemary Recipe",
+            "description": "Rehab Diet lasts 6 more seconds. While it is active, you have a chance of healing 100% extra HP and restoring 2 Energy to Escoffier when you trigger healing through Rehab Diet. This chance corresponds to Escoffier's CRIT Rate. You can trigger this effect 7 times during any one Rehab Diet's duration.\nYou must first unlock the Passive Talent \"Better to Salivate Than Medicate.\"",
+            "properties": []
+        },
+        {
+            "level": 5,
+            "name": "Symphony of a Thousand Sauces",
+            "description": "Increases the Level of Scoring Cuts by 3.\nMaximum upgrade level is 15.",
+            "properties": []
+        },
+        {
+            "level": 6,
+            "name": "Tea Parties Bursting With Color",
+            "description": " is enhanced:\n-  When your party's active character's Normal, Charged, or Plunging Attacks hit opponents, Cooking Mek: Cold Storage Mode will fire off another Special-Grade Frosty Parfait, dealing 500% of Escoffier's ATK as AoE Cryo DMG. This DMG is considered Elemental Skill DMG.\nThis effect can be triggered once every 0.5s, and this effect can be triggered 6 times within the duration of one Cooking Mek: Cold Storage Mode.",
+            "properties": []
+        }
+    ]
+}
