@@ -12246,7 +12246,7 @@
             ]
         },
         {
-            "name": "dahlia",
+            "name": "Dahlia",
             "key": "dahlia",
             "title": "ode and oblation",
             "rarity": 4,
@@ -15893,12 +15893,12 @@
             ]
         },
         {
-            "name": "escoffier",
+            "name": "Escoffier",
             "key": "escoffier",
             "title": "tasteful excellence",
             "rarity": 5,
-            "element": "none",
-            "vision": "none",
+            "element": "cryo",
+            "vision": "cryo",
             "weapon": "polearm",
             "release_date": "may 07, 2025",
             "release_date_epoch": 1746576000,
@@ -22700,12 +22700,12 @@
             ]
         },
         {
-            "name": "ifa",
+            "name": "Ifa",
             "key": "ifa",
             "title": "in the wake of wandering winds",
             "rarity": 4,
-            "element": "none",
-            "vision": "none",
+            "element": "anemo",
+            "vision": "anemo",
             "weapon": "catalyst",
             "release_date": "may 07, 2025",
             "release_date_epoch": 1746576000,
@@ -47119,12 +47119,12 @@
             ]
         },
         {
-            "name": "skirk",
+            "name": "Skirk",
             "key": "skirk",
             "title": "void star",
             "rarity": 5,
-            "element": "none",
-            "vision": "none",
+            "element": "cryo",
+            "vision": "cryo",
             "weapon": "sword",
             "release_date": "june 18, 2025",
             "release_date_epoch": 1750204800,

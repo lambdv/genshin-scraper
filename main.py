@@ -52,6 +52,6 @@ def updateDatabase():
     m.compile_json_files("./genshindata/public/data/characters", "./genshindata/public/data/", "characters.json")
     m.compile_json_files("./genshindata/public/data/weapons", "./genshindata/public/data/", "weapons.json")
 
-updateDatabase()
+# updateDatabase()
 
 
