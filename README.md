@@ -1,3 +1,15 @@
-an automated genshin wiki web scraping script.
-currently can fetch character, weapon and artifact data as json and image assets.
-note that the code isn't meant to be well designed, its meant to just work
+# Genshin Scraper
+an automated genshin wiki web scraping cli script.
+
+## Features
+- character, weapon and artifact json data
+- character, weapon and artifact image files
+
+# Getting Started
+```bash
+git clone https://github.com/lambdv/genshin-scraper
+cd genshin-scraper
+pip install -r requirements.txt
+python cli.py update # scrap all json and image data
+python cli.py compile # produce a characters, weapons and artifacts master json file from individual json files 
+```

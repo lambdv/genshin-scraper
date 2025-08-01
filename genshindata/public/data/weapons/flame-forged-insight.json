@@ -1,0 +1,123 @@
+{
+    "name": "Flame-Forged Insight",
+    "key": "flame-forged-insight",
+    "description": "Tribal tales tell of a great blade forged by the People of the Springs to protect a child who would embark on a distant journey. This particular weapon appears to be a replica of that legendary sword.",
+    "rarity": 4,
+    "category": "claymore",
+    "series": "sunspray summer resort",
+    "release_date": "july 30, 2025",
+    "release_date_epoch": 1753790400.0,
+    "base_atk_min": 42,
+    "base_atk_max": 510,
+    "sub_stat_type": "elemental mastery",
+    "sub_stat_value_min": "36",
+    "sub_stat_value_max": "165",
+    "refinement_name": "mindinbloom",
+    "refinements": [
+        "When Electro-Charged, Lunar-Charged, or Bloom is triggered, restore **12**\n Elemental Energy and increase Elemental Mastery by **60**\n for 15 seconds. This effect can be triggered once every 15s and can be triggered even when the equipping character is off-field.",
+        "When Electro-Charged, Lunar-Charged, or Bloom is triggered, restore **15**\n Elemental Energy and increase Elemental Mastery by **75**\n for 15 seconds. This effect can be triggered once every 15s and can be triggered even when the equipping character is off-field.",
+        "When Electro-Charged, Lunar-Charged, or Bloom is triggered, restore **18**\n Elemental Energy and increase Elemental Mastery by **90**\n for 15 seconds. This effect can be triggered once every 15s and can be triggered even when the equipping character is off-field.",
+        "When Electro-Charged, Lunar-Charged, or Bloom is triggered, restore **21**\n Elemental Energy and increase Elemental Mastery by **105**\n for 15 seconds. This effect can be triggered once every 15s and can be triggered even when the equipping character is off-field.",
+        "When Electro-Charged, Lunar-Charged, or Bloom is triggered, restore **24**\n Elemental Energy and increase Elemental Mastery by **120**\n for 15 seconds. This effect can be triggered once every 15s and can be triggered even when the equipping character is off-field."
+    ],
+    "base_stats": [
+        {
+            "level": "1/20",
+            "base_atk": "42",
+            "sub_stat_type": "elemental mastery",
+            "sub_stat_value": "36",
+            "ascension_phase": 0
+        },
+        {
+            "level": "20/20",
+            "base_atk": "109",
+            "sub_stat_type": "elemental mastery",
+            "sub_stat_value": "64",
+            "ascension_phase": 0
+        },
+        {
+            "level": "20/40",
+            "base_atk": "135",
+            "sub_stat_type": "elemental mastery",
+            "sub_stat_value": "64",
+            "ascension_phase": 1
+        },
+        {
+            "level": "40/40",
+            "base_atk": "205",
+            "sub_stat_type": "elemental mastery",
+            "sub_stat_value": "93",
+            "ascension_phase": 1
+        },
+        {
+            "level": "40/50",
+            "base_atk": "231",
+            "sub_stat_type": "elemental mastery",
+            "sub_stat_value": "93",
+            "ascension_phase": 2
+        },
+        {
+            "level": "50/50",
+            "base_atk": "266",
+            "sub_stat_type": "elemental mastery",
+            "sub_stat_value": "107",
+            "ascension_phase": 2
+        },
+        {
+            "level": "50/60",
+            "base_atk": "292",
+            "sub_stat_type": "elemental mastery",
+            "sub_stat_value": "107",
+            "ascension_phase": 3
+        },
+        {
+            "level": "60/60",
+            "base_atk": "327",
+            "sub_stat_type": "elemental mastery",
+            "sub_stat_value": "122",
+            "ascension_phase": 3
+        },
+        {
+            "level": "60/70",
+            "base_atk": "353",
+            "sub_stat_type": "elemental mastery",
+            "sub_stat_value": "122",
+            "ascension_phase": 4
+        },
+        {
+            "level": "70/70",
+            "base_atk": "388",
+            "sub_stat_type": "elemental mastery",
+            "sub_stat_value": "136",
+            "ascension_phase": 4
+        },
+        {
+            "level": "70/80",
+            "base_atk": "414",
+            "sub_stat_type": "elemental mastery",
+            "sub_stat_value": "136",
+            "ascension_phase": 5
+        },
+        {
+            "level": "80/80",
+            "base_atk": "449",
+            "sub_stat_type": "elemental mastery",
+            "sub_stat_value": "151",
+            "ascension_phase": 5
+        },
+        {
+            "level": "80/90",
+            "base_atk": "475",
+            "sub_stat_type": "elemental mastery",
+            "sub_stat_value": "151",
+            "ascension_phase": 6
+        },
+        {
+            "level": "90/90",
+            "base_atk": "510",
+            "sub_stat_type": "elemental mastery",
+            "sub_stat_value": "165",
+            "ascension_phase": 6
+        }
+    ]
+}
