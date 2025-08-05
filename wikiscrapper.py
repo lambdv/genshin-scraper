@@ -37,20 +37,19 @@ def characterDBSync(overrideData=False, overrideAssets=False):
 
 def weaponDBSync(overrideData=False, overrideAssets=False):
     weaponNames = getWeaponList()
-    print(weaponNames)
     for name in weaponNames:
         key = utils.toKey(name)
-        if not os.path.exists(f"./genshindata/public/data/weapons/{key}.json"): 
+        if not os.path.exists(f"./genshindata/public/data/weapons/{key}.json") or overrideData: 
             print(f"ripping {name}")
             weaponJSON = None
             weaponJSON = scrapeWeapon(name)
-            utils.saveJSON(weaponJSON, "./genshindata/public/data/weapons")
+            utils.saveJSON(weaponJSON, "./genshindata/public/data/weapons", fileName=name)
             print(f"Saved {name}.json")
             #timer.sleep(1)
-        if not os.path.exists(f"./genshindata/public/assets/weapons/{key}/"):
+        if not os.path.exists(f"./genshindata/public/assets/weapons/{key}/") or overrideAssets:
             print(f"ripping {name} assets")
             imgOBJ = scrapeWeaponAssets(name)
-            utils.saveIMGS(name, imgOBJ, "./genshindata/public/assets/weapons", override=overrideAssets)
+            utils.saveIMGS(name, imgOBJ, "./genshindata/public/assets/weapons", override=overrideAssets) #, fileName=utils.toKey(name))
             print(f"Saved {name} assets")
 
 def artifactDBSync(overrideData=False, overrideAssets=False):
@@ -155,13 +154,21 @@ def parseStatTable2(page_soup):
     table_soup = page_soup.find("table", {"class": "ascension-stats"}) # get ascension table
     tbody = table_soup.find("tbody") # get tbody
     trs = tbody.find_all("tr") # get all trs
+
     header = trs.pop(0) #remove the first tr
+    
     # filter out any trs that have the id "mw-customcollapsible-toggle-ascension"
     cost_trs = [tr for tr in trs if tr.get("id") == "mw-customcollapsible-toggle-ascension"]
     trs = [tr for tr in trs if tr.get("id") != "mw-customcollapsible-toggle-ascension"]
-
+    
     # get the last th from the header and get text from spand -> b -> a tag and store it
-    specialStat = header.find_all("th")[-1].find("span").text
+    specialStat = "none"
+    try:
+        specialStat = header.find_all("th")[-1].find("span").text
+    except (IndexError, AttributeError):
+        pass
+        #raise Exception("Failed to find specialStat: missing th or span element")
+
 
 
     # make a dictionary called characterStats
@@ -647,6 +654,8 @@ def getCharacterList():
     tbody = table.find("tbody")
     trs = tbody.find_all("tr")
     trs.pop(0) #remove the header
+    
+
     names = []
     characterOBJs = []
     for tr in trs:
@@ -662,6 +671,7 @@ def getCharacterList():
             "release_version": tds[8].text.strip(),
             "vision": tds[3].text.strip()
         })
+        
     return names, characterOBJs
 
 def scrapeCharacters(names=None):
@@ -906,10 +916,7 @@ def scrapeWeaponAssets(name):
     full_image = page_soup.find("img", {"alt": "Full Icon"})
     full_image = "" if full_image is None else full_image["src"]
 
-
-
     #find "scale-to-width-down" in string and from then until ? is found, remove it
-
     
     wish_image = getHighResImage(wish_image)
     full_image = getHighResImage(full_image)
@@ -1078,7 +1085,6 @@ def scrapeArtifact(name, obj=None):
 
     details = parseArtifactDetails(page_soup, obj)
 
-    
     JSON = {
         "name": name,
         **details

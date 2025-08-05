@@ -1,0 +1,520 @@
+{
+    "name": "ineffa",
+    "key": "ineffa",
+    "title": "boom boom thunderwave",
+    "rarity": 5,
+    "element": "electro",
+    "vision": "electro",
+    "weapon": "polearm",
+    "release_date": "july 30, 2025",
+    "release_date_epoch": 1753833600,
+    "constellation": "Vanilla Planifolia",
+    "birthday": "birthday",
+    "affiliation": "clink-clank krumkake craftshop (on profile)thirteen sovereign lords (formerly)",
+    "region": "regions",
+    "special_dish": "none",
+    "alternate_title": "multifunctional robot for domestic application",
+    "description": "She is a creation of Aino, serving as an all-utility maid and battle automaton created from various scraps from across the nations. In truth, she is the benevolent half of Ix Raq'lapuj Chue'q Buluk, the Eleventh of the Thirteen Sovereign Lords.",
+    "ascension_stat": "CRIT Rate",
+    "base_stats": [
+        {
+            "LVL": "1/20",
+            "BaseHP": "981.92",
+            "BaseATK": "25.70",
+            "BaseDEF": "64.44",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "-",
+            "AscensionPhase": 0
+        },
+        {
+            "LVL": "20/20",
+            "BaseHP": "2547.10",
+            "BaseATK": "66.65",
+            "BaseDEF": "167.15",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "-",
+            "AscensionPhase": 0
+        },
+        {
+            "LVL": "20/40",
+            "BaseHP": "3389.01",
+            "BaseATK": "88.68",
+            "BaseDEF": "222.40",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "-",
+            "AscensionPhase": 1
+        },
+        {
+            "LVL": "40/40",
+            "BaseHP": "5071.03",
+            "BaseATK": "132.70",
+            "BaseDEF": "332.78",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "-",
+            "AscensionPhase": 1
+        },
+        {
+            "LVL": "40/50",
+            "BaseHP": "5669.23",
+            "BaseATK": "148.35",
+            "BaseDEF": "372.04",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "4.8%",
+            "AscensionPhase": 2
+        },
+        {
+            "LVL": "50/50",
+            "BaseHP": "6522.52",
+            "BaseATK": "170.68",
+            "BaseDEF": "428.03",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "4.8%",
+            "AscensionPhase": 2
+        },
+        {
+            "LVL": "50/60",
+            "BaseHP": "7320.12",
+            "BaseATK": "191.55",
+            "BaseDEF": "480.37",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "9.6%",
+            "AscensionPhase": 3
+        },
+        {
+            "LVL": "60/60",
+            "BaseHP": "8182.24",
+            "BaseATK": "214.11",
+            "BaseDEF": "536.95",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "9.6%",
+            "AscensionPhase": 3
+        },
+        {
+            "LVL": "60/70",
+            "BaseHP": "8780.44",
+            "BaseATK": "229.77",
+            "BaseDEF": "576.21",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "9.6%",
+            "AscensionPhase": 4
+        },
+        {
+            "LVL": "70/70",
+            "BaseHP": "9650.42",
+            "BaseATK": "252.53",
+            "BaseDEF": "633.30",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "9.6%",
+            "AscensionPhase": 4
+        },
+        {
+            "LVL": "70/80",
+            "BaseHP": "10248.62",
+            "BaseATK": "268.19",
+            "BaseDEF": "672.55",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "14.4%",
+            "AscensionPhase": 5
+        },
+        {
+            "LVL": "80/80",
+            "BaseHP": "11128.42",
+            "BaseATK": "291.21",
+            "BaseDEF": "730.29",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "14.4%",
+            "AscensionPhase": 5
+        },
+        {
+            "LVL": "80/90",
+            "BaseHP": "11726.61",
+            "BaseATK": "306.86",
+            "BaseDEF": "769.55",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "19.2%",
+            "AscensionPhase": 6
+        },
+        {
+            "LVL": "90/90",
+            "BaseHP": "12613.29",
+            "BaseATK": "330.07",
+            "BaseDEF": "827.73",
+            "AscensionStatType": "CRIT Rate",
+            "AscensionStatValue": "19.2%",
+            "AscensionPhase": 6
+        }
+    ],
+    "ascension_costs": [
+        {
+            "AscensionPhase": 0,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "20000"
+                },
+                {
+                    "name": "Vajrada Amethyst Sliver",
+                    "amount": "1"
+                },
+                {
+                    "name": "Glowing Hornshroom",
+                    "amount": "3"
+                },
+                {
+                    "name": "Sentry's Wooden Whistle",
+                    "amount": "3"
+                }
+            ]
+        },
+        {
+            "AscensionPhase": 1,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "40000"
+                },
+                {
+                    "name": "Secret Source Airflow Accumulator",
+                    "amount": "2"
+                },
+                {
+                    "name": "Vajrada Amethyst Fragment",
+                    "amount": "3"
+                },
+                {
+                    "name": "Glowing Hornshroom",
+                    "amount": "10"
+                },
+                {
+                    "name": "Sentry's Wooden Whistle",
+                    "amount": "15"
+                }
+            ]
+        },
+        {
+            "AscensionPhase": 2,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "60000"
+                },
+                {
+                    "name": "Secret Source Airflow Accumulator",
+                    "amount": "4"
+                },
+                {
+                    "name": "Vajrada Amethyst Fragment",
+                    "amount": "6"
+                },
+                {
+                    "name": "Glowing Hornshroom",
+                    "amount": "20"
+                },
+                {
+                    "name": "Warrior's Metal Whistle",
+                    "amount": "12"
+                }
+            ]
+        },
+        {
+            "AscensionPhase": 3,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "80000"
+                },
+                {
+                    "name": "Secret Source Airflow Accumulator",
+                    "amount": "8"
+                },
+                {
+                    "name": "Vajrada Amethyst Chunk",
+                    "amount": "3"
+                },
+                {
+                    "name": "Glowing Hornshroom",
+                    "amount": "30"
+                },
+                {
+                    "name": "Warrior's Metal Whistle",
+                    "amount": "18"
+                }
+            ]
+        },
+        {
+            "AscensionPhase": 4,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "100000"
+                },
+                {
+                    "name": "Secret Source Airflow Accumulator",
+                    "amount": "12"
+                },
+                {
+                    "name": "Vajrada Amethyst Chunk",
+                    "amount": "6"
+                },
+                {
+                    "name": "Glowing Hornshroom",
+                    "amount": "45"
+                },
+                {
+                    "name": "Saurian-Crowned Warrior's Golden Whistle",
+                    "amount": "12"
+                }
+            ]
+        },
+        {
+            "AscensionPhase": 5,
+            "materials": [
+                {
+                    "name": "Mora",
+                    "amount": "120000"
+                },
+                {
+                    "name": "Secret Source Airflow Accumulator",
+                    "amount": "20"
+                },
+                {
+                    "name": "Vajrada Amethyst Gemstone",
+                    "amount": "6"
+                },
+                {
+                    "name": "Glowing Hornshroom",
+                    "amount": "60"
+                },
+                {
+                    "name": "Saurian-Crowned Warrior's Golden Whistle",
+                    "amount": "24"
+                }
+            ]
+        }
+    ],
+    "talents": [
+        {
+            "name": "Cyclonic Duster",
+            "type": "Normal Attack",
+            "description": "Normal Attack\nPerforms up to 4 consecutive spear strikes.\nCharged Attack\nConsumes a certain amount of Stamina to perform a spinning attack.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "attributes": [
+                {
+                    "hit": "1-Hit DMG (%)",
+                    "values": [
+                        34.8,
+                        37.7,
+                        40.5,
+                        44.6,
+                        47.4,
+                        50.6,
+                        55.1,
+                        59.5,
+                        64.0
+                    ]
+                },
+                {
+                    "hit": "2-Hit DMG (%)",
+                    "values": [
+                        34.2,
+                        37.0,
+                        39.8,
+                        43.8,
+                        46.6,
+                        49.7,
+                        54.1,
+                        58.5,
+                        62.9
+                    ]
+                },
+                {
+                    "hit": "3-Hit DMG (%)",
+                    "values": [
+                        "22.8+22.8",
+                        "24.6+24.6",
+                        "26.5+26.5",
+                        "29.1+29.1",
+                        "31+31",
+                        "33.1+33.1",
+                        "36+36",
+                        "38.9+38.9",
+                        "41.8+41.8"
+                    ]
+                },
+                {
+                    "hit": "4-Hit DMG (%)",
+                    "values": [
+                        56.1,
+                        60.6,
+                        65.2,
+                        71.7,
+                        76.3,
+                        81.5,
+                        88.7,
+                        95.8,
+                        103.0
+                    ]
+                },
+                {
+                    "hit": "Charged Attack DMG (%)",
+                    "values": [
+                        "?",
+                        174.4
+                    ]
+                },
+                {
+                    "hit": "Plunge DMG (%)",
+                    "values": [
+                        "?",
+                        117.5
+                    ]
+                },
+                {
+                    "hit": "Low Plunge DMG (%)",
+                    "values": [
+                        "?",
+                        235.0
+                    ]
+                },
+                {
+                    "hit": "High Plunge DMG (%)",
+                    "values": [
+                        "?",
+                        293.0
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Cleaning Mode: Carrier Frequency",
+            "type": "Elemental Skill",
+            "description": "Ineffa engages her Enhanced Cleaning Module, dealing a single instance of AoE Electro DMG to nearby opponents, activating her Optical Flow Shield Barrier, and summoning the Multipurpose Smart Assistance Unit, .\nThe Optical Flow Shield Barrier absorbs DMG based on Ineffa's ATK, and it will absorb Electro DMG with 250% effectiveness.",
+            "attributes": [
+                {
+                    "hit": "Skill DMG (%)",
+                    "values": [
+                        86.4,
+                        92.9,
+                        99.4,
+                        108.0,
+                        114.5,
+                        121.0,
+                        129.6,
+                        138.2,
+                        146.9,
+                        155.5
+                    ]
+                },
+                {
+                    "hit": "Shield DMG Absorption (% ATK +)",
+                    "values": [
+                        "221.2+1387",
+                        "237.8+1525",
+                        "254.5+1676",
+                        "276.5+1837",
+                        "293.1+2011",
+                        "309.7+2196",
+                        "?",
+                        "353.9+2600",
+                        "376+2820",
+                        "398.1+3051"
+                    ]
+                },
+                {
+                    "hit": "Birgitta Discharge DMG (%)",
+                    "values": [
+                        96.0,
+                        102.2,
+                        110.4,
+                        120.0,
+                        127.2,
+                        134.4,
+                        "?",
+                        153.6,
+                        163.2,
+                        172.8
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Supreme Instruction: Cyclonic Exterminator",
+            "type": "Elemental Burst",
+            "description": "The Multipurpose Smart Assistance Unit, Birgitta, can use Rocket Punches to quickly clean up opponents! Ineffa shoots Birgitta into the fray, dealing AoE Electro DMG and allowing Birgitta to remain on the field.\nIf Birgitta is already on the field, having been summoned by Ineffa, this Skill will re-summon Birgitta at the target's location and reset her duration.",
+            "attributes": [
+                {
+                    "hit": "Skill DMG (%)",
+                    "values": [
+                        676.8,
+                        727.6,
+                        "?",
+                        947.5,
+                        1015.2,
+                        1082.9,
+                        1150.6,
+                        1218.8
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Assemblage Hub",
+            "type": "Moonsign Benediction Passive",
+            "description": "When a party member triggers the Electro-Charged reaction, it will be converted into the Lunar-Charged reaction, with every 100 ATK that Ineffa has increasing Lunar-Charged's Base DMG by 0.7%, up to a maximum of 14%.Further blessings may follow the new moon's rise..."
+        }
+    ],
+    "passives": [
+        {
+            "name": "Overclocking Circuit",
+            "type": "1st Ascension Passive",
+            "description": "If there are thunderclouds created by Lunar-Charged reactions nearby when Birgitta unleashes Discharge attacks, she will initiate an additional attack, dealing AoE Electro DMG equal to 65% of Ineffa's ATK. This DMG is considered Lunar-Charged DMG."
+        },
+        {
+            "name": "Panoramic Permutation Protocol",
+            "type": "4th Ascension Passive",
+            "description": "When using the Elemental Burst Supreme Instruction: Cyclonic Exterminator, all your party members will gain the Parameter Permutation effect: Increases Ineffa and your own active party member's Elemental Mastery by 6% of Ineffa's ATK for 20s."
+        },
+        {
+            "name": "Flavor Synthesis Unit",
+            "type": "Utility Passive",
+            "description": "When Ineffa uses food, there is a 30% chance of gaining a seasoning ingredient.\nAdditionally, in Nod-Krai, it seems you'll be able to change Birgitta's appearance through certain means..."
+        }
+    ],
+    "constellations": [
+        {
+            "level": 1,
+            "name": "Rectifying Processor",
+            "description": "When Ineffa activates her Optical Flow Shield Barrier, all nearby party members will gain the Carrier Flow Composite effect for 20s: Increases Lunar-Charged DMG by 2.5% for every 100 ATK that Ineffa has, up to a maximum of 50%.",
+            "properties": []
+        },
+        {
+            "level": 2,
+            "name": "Support Cleaning Module",
+            "description": "After the Elemental Burst Supreme Instruction: Cyclonic Exterminator hits opponents, it will inflict the Punishment Edict status on one of those hit opponents: After a brief delay, or when this opponent is attacked, nearby opponents will take  equal to 300% of Ineffa's ATK. This DMG is considered Lunar-Charged DMG. Additionally, when the Elemental Burst Supreme Instruction: Cyclonic Exterminator is unleashed, nearby party members will gain Optical Flow Shield Barriers.",
+            "properties": []
+        },
+        {
+            "level": 3,
+            "name": "Enhanced Emotion Emulator",
+            "description": "Increases the Level of Cleaning Mode: Carrier Frequency by 3.\nMaximum upgrade level is 15.",
+            "properties": []
+        },
+        {
+            "level": 4,
+            "name": "The Edictless Path",
+            "description": "When your own party members trigger Lunar-Charged reactions, recover 5 Elemental Energy. This effect can occur once every 4s.",
+            "properties": []
+        },
+        {
+            "level": 5,
+            "name": "Mirror's Dream Transcension",
+            "description": "Increases the Level of Supreme Instruction: Cyclonic Exterminator by 3.\nMaximum upgrade level is 15.",
+            "properties": []
+        },
+        {
+            "level": 6,
+            "name": "A Dawning Morn for You",
+            "description": "When Ineffa is affected by the Carrier Flow Composite effect, she will deal  equal to 135% of her ATK to opponents in the current active character's vicinity after nearby thunderclouds release bursts of lightning at opponents. This DMG is considered Lunar-Charged DMG. The aforementioned effect can trigger once every 3.5s.",
+            "properties": []
+        }
+    ]
+}

@@ -17,9 +17,12 @@ def printSoup(soup):
     print(soup.prettify())
 
 
-def saveJSON(data, path, override=False):
+def saveJSON(data, path, override=False, fileName=None):
     key = data["key"]
-    file_path = f"{path}/{key}.json"
+    if fileName:
+        file_path = f"{path}/{fileName}.json"
+    else:
+        file_path = f"{path}/{key}.json"
     os.makedirs(os.path.dirname(path), exist_ok=True)
     if os.path.exists(file_path) and not override:
         return
@@ -42,7 +45,7 @@ def readJSON(key, path):
         return json.load(file)
     
 
-def saveIMGS(name, imgOBJ, path, override=False):
+def saveIMGS(name, imgOBJ, path, override=False, fileName=None):
     key = toKey(name)
     # Create the character/weapon/artifact directory
     character_dir = f"{path}/{key}"
@@ -54,7 +57,10 @@ def saveIMGS(name, imgOBJ, path, override=False):
         if not URL:  # Skip empty URLs
             continue
             
-        file_path = f"{character_dir}/{img_type}.png"
+        if fileName:
+            file_path = f"{character_dir}/{fileName}_{img_type}.png"
+        else:
+            file_path = f"{character_dir}/{img_type}.png"
         if not os.path.exists(file_path) or override:
             try:
                 response = requests.get(URL)
