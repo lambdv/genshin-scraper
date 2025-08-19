@@ -45,6 +45,31 @@ def readJSON(key, path):
         return json.load(file)
     
 
+# def saveIMGS(name, imgOBJ, path, override=False, fileName=None):
+#     key = toKey(name)
+#     # Create the character/weapon/artifact directory
+#     character_dir = f"{path}/{key}"
+#     if not os.path.exists(character_dir):
+#         os.makedirs(character_dir)
+    
+#     # Save each image in the character directory
+#     for img_type, URL in imgOBJ.items():
+#         if not URL:  # Skip empty URLs
+#             continue
+            
+#         if fileName:
+#             file_path = f"{character_dir}/{fileName}_{img_type}.png"
+#         else:
+#             file_path = f"{character_dir}/{img_type}.png"
+#         if not os.path.exists(file_path) or override:
+#             try:
+#                 response = requests.get(URL)
+#                 response.raise_for_status()  # Raise an exception for bad status codes
+#                 with open(file_path, "wb") as f:
+#                     f.write(response.content)
+#             except Exception as e:
+#                 print(f"Error saving {img_type} image for {name}: {str(e)}")
+
 def saveIMGS(name, imgOBJ, path, override=False, fileName=None):
     key = toKey(name)
     # Create the character/weapon/artifact directory

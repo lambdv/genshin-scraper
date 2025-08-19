@@ -934,7 +934,6 @@ def scrapeWeaponAssets(name):
             result["splash2"] = full_image
         else:
             result["splash"] = full_image
-
     return result
 
 
